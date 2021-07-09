@@ -1,6 +1,6 @@
 # poc_live_events
 
-POC app combining agora and signalr examples for live events
+POC app combining [agora](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/tree/revert-230-latest-working-version) and [signalr](https://github.com/sefidgaran/signalr_client/tree/7334397b3bd2a2a66333cf20e69285505ea1f50d/example) examples for live events
 
 Created using flutter 1.22.6
 
